@@ -1,1 +1,1 @@
-CSE415: Artificial Intelligence
+CSE415: Artificial Intelligence A1
